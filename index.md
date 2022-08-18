@@ -1,4 +1,4 @@
-## Welcome to oiccio's github
+## Welcome to oiccio's github page
 - 这是我创建的第一天，我也不知道写点啥讷  
 
 - 要不然以后就记录学习的过程吧？  
