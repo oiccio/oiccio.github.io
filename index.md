@@ -1,6 +1,8 @@
 ## Welcome to oiccio's github page
  欢迎大家关注我的[bilibili](https://space.bilibili.com/57869592?spm_id_from=333.1007.0.0 "青灯")账号哦  
 ## 2022-8-29  
+***
+
 今天是练习标准指法的一天，可奈何真的好难，严重影响了学习速度  
 决定学完Linux开始redis啦，shell先放一放，希望不会一放就是四年  
 
